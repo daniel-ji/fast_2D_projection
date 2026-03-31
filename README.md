@@ -4,7 +4,7 @@ A website that can do real time theoretical EM 2D projections from an uploaded p
 
 **No installation. No server. No build step.**
 1. Download [`Fast_2D_Projection_Visualization_v0.1.html`](https://github.com/haoyuewang27/fast_2D_projection/blob/main/Fast_2D_Projection_Visualization%20v0.1.html)
-2. Open it in any modern browser (Chrome, Safari, ...)
+2. Double click it and open it in any modern browser (Chrome, Safari, ...)
 3. Drag and drop a `.pdb` or `.cif` / `.mmcif` file onto the window, or click **Load PDB**
 
 **Load, drag, and view**
